@@ -1,0 +1,48 @@
+{
+  "name": "job-board",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.7",
+    "lucide-react": "^0.344.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.2",
+    "date-fns": "^3.3.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^8.56.0",
+    "@types/react": "^18.2.56",
+    "@types/react-dom": "^18.2.19",
+    "@vitejs/plugin-react": "^4.2.1",
+    "autoprefixer": "^10.4.18",
+    "eslint": "^8.56.0",
+    "eslint-plugin-react-hooks": "^5.0.0-canary-1b071bf63-20240227",
+    "eslint-plugin-react-refresh": "^0.4.5",
+    "globals": "^15.0.0",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.2.2",
+    "typescript-eslint": "^7.0.2",
+    "vite": "^5.1.4"
+  },
+  "description": "an application whereby a person can create job for people or search for jobs for them selfs",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MubarakRaji1/Job-Board.git"
+  },
+  "author": "Mubarak Raji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MubarakRaji1/Job-Board/issues"
+  },
+  "homepage": "https://github.com/MubarakRaji1/Job-Board#readme"
+}
