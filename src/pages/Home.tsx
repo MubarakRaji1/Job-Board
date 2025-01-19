@@ -45,6 +45,9 @@ export default function Home() {
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
             Connect with top employers and discover opportunities that match your skills and aspirations.
           </p>
+              <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
+            MADE WITH ❤️ BY MUBARAK RAJI
+          </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <Link
               to="/jobs"
